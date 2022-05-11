@@ -35,15 +35,7 @@
     margin: 20px; */
 }
 
-.div-2:hover {
-    background: #75afbe;
-    transition: background-color 2s;
-}
-
-
-.div-may:hover{
-    clip-path: circle(60% at center);
-}
+ 
 
 body {
     background-color: #d7d7d8;
@@ -304,3 +296,6 @@ table {
 
 
 }
+
+
+

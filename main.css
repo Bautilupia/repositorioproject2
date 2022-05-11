@@ -167,6 +167,7 @@ header {
 }
 
 
+
 /* pagina 2 */
 
 
@@ -191,6 +192,7 @@ table {
     grid-area: 1 / 1 / 2 / 2; background: darkslategrey;
     background-image: linear-gradient(to right, #a2d6fc, #55828f); text-align: center;
 }
+
 
 @media screen and (max-width: 768px) {
     .div-mai {
@@ -302,5 +304,3 @@ table {
 
 
 }
-        
-
